@@ -17,11 +17,10 @@ deepfake detection for image/video
 ## Results
 
 
-| ![comic](comic.png) | 
+| ![real](REAL.png) | 
 |:--:| 
 
-| ![butterfly](butterfly.png)| 
+| ![fake](FAKE.png)| 
 |:--:| 
 
-| ![lenna](lenna.png)| 
-|:--:| 
+
