@@ -17,10 +17,10 @@ deepfake detection for image/video
 ## Results
 
 
-| ![real](REAL.png) | 
+| ![real](REAL.jpg) | 
 |:--:| 
 
-| ![fake](FAKE.png)| 
+| ![fake](FAKE.jpg)| 
 |:--:| 
 
 
