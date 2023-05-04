@@ -27,6 +27,5 @@ deepfake detection for image/video
 ## Datasets
 
 ### Testing Dataset
-Our Testing dataset contains videos from the DFDC dataset.The files can be found [here]
-  (https://www.kaggle.com/competitions/deepfake-detection/data?select=deep-fake-dataset)
+Our Testing dataset contains videos from the DFDC dataset.The files can be found [here](https://www.kaggle.com/competitions/deepfake-detection/data?select=deep-fake-dataset)
 
