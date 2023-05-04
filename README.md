@@ -14,3 +14,14 @@ deepfake detection for image/video
 ```
   python3 detect_from_video.py --video_path <path to test set>
 ```
+## Results
+
+
+| ![comic](comic.png) | 
+|:--:| 
+
+| ![butterfly](butterfly.png)| 
+|:--:| 
+
+| ![lenna](lenna.png)| 
+|:--:| 
