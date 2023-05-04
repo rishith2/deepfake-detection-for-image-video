@@ -6,3 +6,8 @@ deepfake detection for image/video
 4) In terminal, while running the detect_from_video.py, the line takes in the videopath arguments. (python <file> --videopath <path>)
 5) In the main method in the file, after parsing the video path, compiler asks to select one of the architecture to test on,select one of them. (1.Xception, 2.EfficientNet)
 6) Wait for the results for the selected option.
+## Instructions for Usage
+Prepare train and test npy files
+
+```python3 detect_from_video.py --video_path <path to test set>
+```
