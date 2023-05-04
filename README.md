@@ -9,5 +9,6 @@ deepfake detection for image/video
 ## Instructions for Usage
 Prepare train and test npy files
 
-```python3 detect_from_video.py --video_path <path to test set>
+```
+  python3 detect_from_video.py --video_path <path to test set>
 ```
